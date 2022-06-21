@@ -12,6 +12,7 @@ scripting. The specific list of projects contained follows:
 * [0x03-python-data_structures](./0x03-python-data_structures)
 * [0x04-python-more_data_structures](./0x04-python-more_data_structures)
 * [0x05-python-exceptions](./0x05-python-exceptions)
+* [0x06-python-classes](./0x06-python-classes)
 
 ## Author :
 
