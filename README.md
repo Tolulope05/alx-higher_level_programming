@@ -24,6 +24,7 @@ scripting. The specific list of projects contained follows:
 * [0x12-javascript-warm_up](./0x12-javascript-warm_up)#
 * [0x13-javascript_objects_scopes_closures](./0x13-javascript_objects_scopes_closures)
 * [0x0F-python-object_relational_mapping](./0x0F-python-object_relational_mapping)
+* [0x14-javascript-web_scraping](./0x14-javascript-web_scraping)
 
 
 ## Author :
