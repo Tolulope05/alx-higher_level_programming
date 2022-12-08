@@ -28,9 +28,6 @@ scripting. The specific list of projects contained follows:
 * [0x15-javascript-web_jquery](./0x15-javascript-web_jquery)
 
 
-## Author :
-
-* **Tolulope Fakunle** <[Tolulope05](https://github.com/Tolulope05)>
 
 ## Acknowledgements :pray:
 
